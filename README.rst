@@ -25,5 +25,6 @@ Git Hooks
 This will install git hooks that do the following things:
 
 - Pre-commit:
+
   - Prevents a developer from committing to master branch and promotes the use
     of the pull-request system
